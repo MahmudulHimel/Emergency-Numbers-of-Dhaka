@@ -1,0 +1,1221 @@
+
+<resources>
+
+//Police Station//
+
+
+    <string name="app_name">Emergency Numbers of Dhaka</string>
+    <string-array name="police_0">
+        <item>Telephone: +88-02-9133265</item>
+        <item>Mobile: +8801199867799</item>
+        <item>Address: House#105/A, Ring road, Shamoli, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_1">
+        <item>Telephone: +88-02-8901853</item>
+        <item>Mobile: +8801191001166</item>
+        <item>Address: 1st Floor RAB(HQ), Uttara, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_2">
+        <item>Telephone: +88-02-9882625</item>
+        <item>Mobile: +8801191001155</item>
+        <item>Address: H-12/A, R-17, DIT Project, Marul Badda, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_3">
+        <item>Telephone: +88-02-9894032</item>
+        <item>Mobile: +8801769-058053</item>
+        <item>Address: R-7, H-37, Banani, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_4">
+        <item>Telephone: +88-02-9565700</item>
+        <item>Mobile: +8801199883723</item>
+        <item>Address: English Road, Fazlul Haque Comunity Center(2nd Floor), Bangshal, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_5">
+        <item>Telephone: +8802-8829179</item>
+        <item>Mobile: +8801713373172</item>
+        <item>Address: MES Jia Koloni, Cantonment, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_6">
+        <item>Telephone: +88-02-7313966</item>
+        <item>Mobile: +8801199883724</item>
+        <item>Address: Bakshi Bazer Road, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_7">
+        <item>Telephone: +88-02-8931777</item>
+        <item>Mobile: +8801191001188</item>
+        <item>Address: Bidurbari Road, Thana More, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_8">
+        <item>Telephone: +88-02-8032333</item>
+        <item>Mobile: +8801199802025</item>
+        <item>Address: 100 Golartek, Mirpur, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_9">
+        <item>Telephone: +88-02-7501155</item>
+        <item>Mobile: +8801199883727</item>
+        <item>Address: Bowani Jute Mills, Demra, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_10">
+        <item>Telephone: +88-02-8631941</item>
+        <item>Mobile: +8801199883622</item>
+        <item>Address:  R#6. H#21, Dhanmondi, Dhaka.</item>
+    </string-array>
+
+
+    <string-array name="police_11">
+        <item>Telephone: +88-02-7453294</item>
+        <item>Mobile: +8801199883733</item>
+        <item>Address: Keshab Benarjee Rd, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_12">
+        <item>Telephone: +88-02-9895826</item>
+        <item>Mobile: +8801191001144</item>
+        <item>Address: H-32, 115 Gulshan Avenue, Gulshan-2, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_13">
+        <item>Telephone: +88-02-9669900</item>
+        <item>Mobile: +8801199883722</item>
+        <item>Address: 98/2 Gojmohal, Hazaribag, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_14">
+        <item>Telephone: +88-02-7546244</item>
+        <item>Mobile: +8801199883729</item>
+        <item>Address: Dhaka-Demra Highway, Tipusultan Rd, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_15">
+        <item>Telephone: +88-02-9001061</item>
+        <item>Mobile: +8801769914772</item>
+        <item>Address: Mirpur-14, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_16">
+        <item>Telephone: +88-02-9665254</item>
+        <item>Mobile: +8801713-398339</item>
+        <item>Address: 30 North road, Vutergoli, Kalabagan, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_17">
+        <item>Telephone: +88-02-7320323</item>
+        <item>Mobile: +8801199883725</item>
+        <item>Address: Signboard, Asrafabad, Kamrangirchar, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_18">
+        <item>Telephone: +88-02-7219090</item>
+        <item>Mobile: +8801191003388</item>
+        <item>Address: Khilgaon Taltola Market, Block#A, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_19">
+        <item>Telephone: +88-02-8911786</item>
+        <item>Mobile: +8801199883611</item>
+        <item>Address: R-1, Nikunjo-2(South Side), Khilkhet, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_20">
+        <item>Telephone: +88-02-7547755</item>
+        <item>Mobile: +8801199883732</item>
+        <item>Address: Rayerbagh Rd, Mujahidnagar, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_21">
+        <item>Telephone: +88-02-7116255</item>
+        <item>Mobile: +8801199883646</item>
+        <item>Address: 2 No Simson Road, Kotwali, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_22">
+        <item>Telephone: +88-02-9660105</item>
+        <item>Mobile: +8801199883721</item>
+        <item>Address: Shaheed Nagar, RND Road, House#24, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_23">
+        <item>Telephone: +88-02-9001001</item>
+        <item>Mobile: +8801199883734</item>
+        <item>Address: Mirpur-2, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_24">
+        <item>Telephone: +88-02-9119943</item>
+        <item>Mobile: +8801199883742</item>
+        <item>Address: Block#E, Mohammadia Housing Easted, Sat Mosjid Road, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_25">
+        <item>Telephone: +88-02-9571000</item>
+        <item>Mobile: +8801199883726</item>
+        <item>Address: 140 Motijheel C/A, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_26">
+        <item>Telephone: +88-02-7549722</item>
+        <item>Mobile: +8801769-058061</item>
+        <item>Address: Wapdagoli, Mugda, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_27">
+        <item>Telephone: +88-02-8631942</item>
+        <item>Mobile: +8801199883627</item>
+        <item>Address: Nilkhet Katabon Road, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_28">
+        <item>Telephone: +88-02-9015922</item>
+        <item>Mobile: +8801199883735</item>
+        <item>Address: Pallabi-12, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_29">
+        <item>Telephone: +88-02-9360802</item>
+        <item>Mobile: +8801199883737</item>
+        <item>Address: Paltan VIP Road, Paltan, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_30">
+        <item>Telephone: +88-02-9350468</item>
+        <item>Mobile: +8801199883720</item>
+        <item>Address: Old Elephant road, Ramna, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_31">
+        <item>Telephone: +88-02-7290999</item>
+        <item>Mobile: +8801794449924</item>
+        <item>Address: House#21,Block#H, Road#3/1, Khilgoan, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_32">
+        <item>Telephone: +88-02-9002177</item>
+        <item>Mobile: +8801769058059</item>
+        <item>Address: House#10/A, Road#8, Section#7, Arambagh, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_33">
+        <item>Telephone: +88-02-7219988</item>
+        <item>Mobile: +8801199883736</item>
+        <item>Address:  202 Moddho Basabo, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_34">
+        <item>Telephone: +88-02-9002777</item>
+        <item>Mobile: +8801199883625</item>
+        <item>Address: Road#1,Section#1, Block#B, House#29, Shah Ali, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_35">
+        <item>Telephone: +88-02-9676699</item>
+        <item>Mobile: +8801713373127</item>
+        <item>Address: Shahbagh more, Shahbagh, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_36">
+        <item>Telephone: +88-02-9360535</item>
+        <item>Mobile: +8801769058063</item>
+        <item>Address: Shahjahanpur Railway Colony, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_37">
+        <item>Telephone: +88-02-7116233</item>
+        <item>Mobile: +8801713373143</item>
+        <item>Address: 37 Water Road, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_38">
+        <item>Telephone: +88-02-7440691</item>
+        <item>Mobile: +8801199883730</item>
+        <item>Address: Postagola, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_39">
+        <item>Telephone: +88-02-9124154</item>
+        <item>Mobile: +8801199867888</item>
+        <item>Address: Sayed Mahbub Morshed Ave. Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_40">
+        <item>Telephone: +88-02-8870309</item>
+        <item>Mobile: +8801713373181</item>
+        <item>Address:  Plot 440, Tejgoan Industrial Area, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_41">
+        <item>Telephone: +88-02-9119444</item>
+        <item>Mobile: +8801713373180</item>
+        <item>Address: 56 Tejkunipara, Farmgate, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_42">
+        <item>Telephone: +88-02-8981247</item>
+        <item>Mobile: +8801199883645</item>
+        <item>Address: </item>
+    </string-array>
+
+    <string-array name="police_43">
+        <item>Telephone: +88-02-8931888</item>
+        <item>Mobile: +8801794449946</item>
+        <item>Address: Madarbari, Mazer road, Uttarkhan, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_44">
+        <item>Telephone: +88-02-8914126</item>
+        <item>Mobile: +8801794449948</item>
+        <item>Address: R-14/D, Sector-4, H-12, Uttara, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_45">
+        <item>Telephone: +88-02-8991315</item>
+        <item>Mobile: +8801769058065</item>
+        <item>Address: H-48, Road No: 18, Sector: 11, Uttara, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_46">
+        <item>Telephone: +88-02-8713023</item>
+        <item>Mobile: +8801769914785</item>
+        <item>Address: Bhashantek, Mirpur, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_47">
+        <item>Telephone: +88-02-9897438</item>
+        <item>Mobile: +8801763661177</item>
+        <item>Address: Progoti Soroni, Gulshan Notun Bazar, Vatara, Dhaka.</item>
+    </string-array>
+
+    <string-array name="police_48">
+        <item>Telephone: +88-02-9553377</item>
+        <item>Mobile: +8801769058051</item>
+        <item>Address: Abdur Rahim Comunity Centre, 25 Tipusultan Road, Dhaka.</item>
+    </string-array>
+
+
+
+
+
+
+
+//Fire Station//
+
+
+
+    <string-array name="fire_0">
+        <item>Telephone: +88028827397</item>
+        <item>Mobile: +8801730002245</item>
+        <item>Address: Plot 1, Madani Ave, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="fire_1">
+        <item>Telephone: +88027788444</item>
+        <item>Mobile: +8801730002231</item>
+        <item>Address: Nabinagar - Chandra Road, Puratan DEPZ, Ashulia, Savar Union</item>
+    </string-array>
+
+    <string-array name="fire_2">
+        <item>Telephone: +88027500111</item>
+        <item>Mobile: +8801730002302</item>
+        <item>Address: R110, Dhaka 1361</item>
+    </string-array>
+
+    <string-array name="fire_3">
+        <item>Mobile: +8801742302850</item>
+        <item>Address: Dhaka-Aricha Hwy, Dhamrai 1350</item>
+    </string-array>
+
+
+    <string-array name="fire_4">
+        <item>Telephone: +8802-58616222</item>
+        <item>Mobile: +8801721-733114</item>
+        <item>Address: Sadarghat - Gabtoli Road, Dhaka</item>
+    </string-array>
+
+    <string-array name="fire_5">
+        <item>Telephone: +88027766666</item>
+        <item>Mobile: +8801730-002247</item>
+        <item>Address: Konakhola Upozila Parishad Road, Keraniganj</item>
+    </string-array>
+
+    <string-array name="fire_6">
+        <item>Telephone: +88027218329</item>
+        <item>Mobile: +8801730-002225</item>
+        <item>Address: Shantipur Road 02, Dhaka 1219</item>
+    </string-array>
+
+    <string-array name="fire_7">
+        <item>Telephone: +88028713399</item>
+        <item>Mobile: +8801730-002232</item>
+        <item>Address: Dhaka 1206</item>
+    </string-array>
+
+    <string-array name="fire_8">
+        <item>Telephone: +880258617171</item>
+        <item>Mobile: +8801730-002218</item>
+        <item>Address: 22/1, Nur Fattah Lane, Opp to Dhakeshwari mandir, Lalbagh, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="fire_9">
+        <item>Telephone: +88029001055</item>
+        <item>Mobile: +8801730-002229</item>
+        <item>Address: 38, 46 Kazi Alauddin Road, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="fire_10">
+        <item>Telephone: +88029112078</item>
+        <item>Mobile: +8801730-002227</item>
+        <item>Address: Mirpur Road, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="fire_11">
+        <item>Telephone: +880285615555</item>
+        <item>Mobile: +8801730-002219</item>
+        <item>Address: Dhakeshwari Road, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="fire_12">
+        <item>Telephone: +88027440771</item>
+        <item>Mobile: +8801730-002216</item>
+        <item>Address: M C Road, Dhaka</item>
+    </string-array>
+
+    <string-array name="fire_13">
+        <item>Telephone: +88029534433</item>
+        <item>Address: Simson Road, Dhaka 1100</item>
+    </string-array>
+
+    <string-array name="fire_14">
+        <item>Telephone: +88027454055</item>
+        <item>Address: Simson Road, Dhaka 1100</item>
+    </string-array>
+
+    <string-array name="fire_15">
+        <item>Telephone: +88027748333</item>
+        <item>Mobile: +8801730-002250</item>
+        <item>Address: Dhaka - Aricha Hwy, Savar Union 1340</item>
+    </string-array>
+
+
+    <string-array name="fire_16">
+        <item>Mobile: +8801794-117037</item>
+        <item>Address: R M Dash Road, Dhaka</item>
+    </string-array>
+
+    <string-array name="fire_17">
+        <item>Telephone: +88029555555</item>
+        <item>Mobile: +8801730-002210</item>
+        <item>Address: 38-46, Kazi Allaudin Road, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="fire_18">
+        <item>Telephone: +88028870314</item>
+        <item>Mobile: +8801730-002226</item>
+        <item>Address: Shaheed Tajuddin Ahmed Ave, Dhaka 1208</item>
+    </string-array>
+
+    <string-array name="fire_19">
+        <item>Mobile: +8801730-082230</item>
+        <item>Address: Dhaka 1230</item>
+    </string-array>
+
+
+
+
+//Hospital//
+
+
+    <string-array name="hospital_0">
+        <item>Telephone: +8802-9353391</item>
+        <item>Address: 2 Bara Maghbazar, Outer Circular Rd, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_1">
+        <item>Telephone: +88028113628</item>
+        <item>Mobile: +8801797-619959</item>
+        <item>Address: Satmasjid Road, Near Sankar Bus Stand, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_2">
+        <item>Telephone: +8802-8931141</item>
+        <item>Address: Plot-03 , Embankment Drive Way Sector-10 , Uttara Model Town, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_3">
+        <item>Telephone: +8802-8916290</item>
+        <item>Address: Plot- 35,37, Hospital Complex, Abdullahpur, Uttara, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_4">
+        <item>Telephone: +8802-9121588</item>
+        <item>Address: 5/4, Block-F, Lalmatia, Mohammadpur, Dhaka- 1207	</item>
+    </string-array>
+
+    <string-array name="hospital_5">
+        <item>Telephone: +8802-9135451</item>
+        <item>Address: 1/9, Block-E, Lalmatia, Satmasjid Road, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_6">
+        <item>Telephone: +8802-9006820</item>
+        <item>Address: 150, Rokeya Sarani, Senpara, Parbata,Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_7">
+        <item>Telephone: +88028401600</item>
+        <item>Mobile: +8801729-276556</item>
+        <item>Address: Plot: 81, Block: E, Bashundhara R/A, Dhaka 1229</item>
+    </string-array>
+
+    <string-array name="hospital_8">
+        <item>Mobile: +8801787-683333</item>
+        <item>Address: 111/1/A , Distillery Road, Beside Dhupkhola Playground, Gandaria, Dhaka 1204</item>
+    </string-array>
+
+    <string-array name="hospital_9">
+        <item>Mobile: +8801711-381302</item>
+        <item>Address: Rd No 11, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="hospital_10">
+        <item>Telephone: +8802-8857828</item>
+        <item>Mobile: +8801714643324</item>
+        <item>Address: Cha-107/2, North Badda (Progoti Sarani), Dhaka-1212</item>
+    </string-array>
+
+    <string-array name="hospital_11">
+        <item>Telephone: +8802</item>
+        <item>Mobile: </item>
+        <item>Address: Road#27, 78 Satmasjid Road, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_12">
+        <item>Telephone: +8802-9661064</item>
+        <item>Address: Shahbag, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_13">
+        <item>Mobile: +8801977-063412</item>
+        <item>Address: 43/R/4, West Panthapath, Bir Uttam Kazi Nuruzzaman Rd, Dhaka 1215</item>
+    </string-array>
+
+    <string-array name="hospital_14">
+        <item>Telephone: +8802-</item>
+        <item>Mobile: </item>
+        <item>Address: 21 Shyamoli, Mirpur Road, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_15">
+        <item>Telephone: +8802-</item>
+        <item>Mobile: </item>
+        <item>Address: 41/A Mirpur Rd, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_16">
+        <item>Telephone: +8802-58310522</item>
+        <item>Address: Bir Uttam Samsul Alam Road, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_17">
+        <item>Telephone: +8802-9116152</item>
+        <item>Address: Nizam`s Shankar Plaza, 72 Satmasjid Road, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_18">
+        <item>Telephone: +8802-9661551</item>
+        <item>Address: 122 Kazi Nazrul Islam Ave, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_19">
+        <item>Mobile: +8801725-931747</item>
+        <item>Address: 1/A, Segun Bagicha Rd, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_20">
+        <item>Mobile: +8801783-917151</item>
+        <item>Address: Darus Salam Rd, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_21">
+        <item>Telephone: +8802-9140333</item>
+        <item>Mobile: +8801777-764832</item>
+        <item>Address: 77/A, East Rajabazar, Near To Samarita Hospital, West Panthapath, Dhaka 1215</item>
+    </string-array>
+
+    <string-array name="hospital_22">
+        <item>Telephone: +8802-9134407</item>
+        <item>Address: 2/1 Iqbal Road, Mohammadpur, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_23">
+        <item>Telephone: +8802-9660015</item>
+        <item>Address: House # 2, Road No. 5, গ্রীন রোড, Dhanmondi, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_24">
+        <item>Telephone: +8802-8143312</item>
+        <item>Address: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_25">
+        <item>Telephone: +8802-9127306</item>
+        <item>Address: House#32, Road No. 3, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_26">
+        <item>Telephone: +8802-8115843</item>
+        <item>Address: Secretariate Rd, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_27">
+        <item>Telephone: +8802-225566</item>
+        <item>Address: 4/4A, Block-E, Zakir Hussain Rd, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_28">
+        <item>Telephone: +8802-9128727</item>
+        <item>Address: 2, 1 Ring Rd, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_29">
+        <item>Telephone: +8802-9128308</item>
+        <item>Address: Sher-e-Bangla Nagar, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_30">
+        <item>Telephone: +8802</item>
+        <item>Mobile: +88</item>
+        <item>Address: 5 Mirpur Rd, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_31">
+        <item>Telephone: +8802-7913975</item>
+        <item>Address: 32 Rabindra Sarani, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_32">
+        <item>Telephone: +8802-7390066</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_33">
+        <item>Mobile: +8801730-324400</item>
+        <item>Address: Islampur Rd, Dhamrai</item>
+    </string-array>
+
+    <string-array name="hospital_34">
+        <item>Telephone: +8802-8017151</item>
+        <item>Address: 26, 2 Darus Salam Rd, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_35">
+        <item>Telephone: +8802</item>
+        <item>Mobile: +88</item>
+        <item>Address: Principal Abul Kashem (Former Darussalam), 26/2 Rd No. 3, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_36">
+        <item>Telephone: +8802-9023894</item>
+        <item>Address: 6/2 Rd No. 2, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_37">
+        <item>Telephone: +8802-9122264</item>
+        <item>Address: House #37, Road #9/A, Dhanmondi R/A, Dhaka-1209</item>
+    </string-array>
+
+    <string-array name="hospital_38">
+        <item>Telephone: +8802-8150507</item>
+        <item>Mobile: +8801755-697173</item>
+        <item>Address: 753, Satmasjid Road, Dhanmondi, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_39">
+        <item>Telephone: +8802-58151660</item>
+        <item>Address: Plot No. F-12, Sher-e-Bangla Nagar, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_40">
+        <item>Mobile: +8801732-572330</item>
+        <item>Address: Johori Mohollah Ring Rd Dhaka 1207 Ring Rd, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_41">
+        <item>Telephone: +8802-81222471</item>
+        <item>Address: Road #14 (New), House #8/3,Dhanmondi R/A, Dhaka- 1209</item>
+    </string-array>
+
+    <string-array name="hospital_42">
+        <item>Telephone: +8802-9338986</item>
+        <item>Mobile: +8801929-990100</item>
+        <item>Address: 98/6-A, Bara Moghbazar, Dhaka- 1217, Moghbazar Kazi Office Lane., Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_43">
+        <item>Telephone: +8802-9612345</item>
+        <item>Address: 32, Bir Uttam, K.M. Shafiullah Sarak (Green Road), Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_44">
+        <item>Mobile: +8801716-623627</item>
+        <item>Address: House # 112, Road # 13, Sector 10, Uttara, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_45">
+        <item>Telephone: +8802-9145786</item>
+        <item>Mobile: +8801611-216230</item>
+        <item>Address: 152/2/G Green Road, Panthopath Crossing, Panthapath, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_46">
+        <item>Mobile: +8801978-804888</item>
+        <item>Address: 26,Atish Deepankar road, Atish Deepankar Rd, Dhaka 1214</item>
+    </string-array>
+
+    <string-array name="hospital_47">
+        <item>Mobile: +8801672-241413</item>
+        <item>Address: 164 E Kafrul Rd, Dhaka 1206</item>
+    </string-array>
+
+    <string-array name="hospital_48">
+        <item>Telephone: +8802-8311721</item>
+        <item>Address: 1, Eskaton Garden Road, Maghbazar,Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_49">
+        <item>Telephone: +8802-8119513</item>
+        <item>Mobile: +8801823-039800</item>
+        <item>Address: H.No 68 Road No 15/A, Dhanmondi R/A, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_50">
+        <item>Mobile: +8801844-141713</item>
+        <item>Address: 1/1 Kallyanpur Main Rd, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_51">
+        <item>Telephone: +8802-9671147</item>
+        <item>Address: 122, Kazi Nazrul Islam Ave, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_52">
+        <item>Mobile: +8801715-016727</item>
+        <item>Address: 304/E, Bir Uttam Mir Shawkat Sarak, Behind Channel I office, Dhaka 1208</item>
+    </string-array>
+
+    <string-array name="hospital_53">
+        <item>Telephone: +8802-8112856</item>
+        <item>Address: Sher e Bangla Nagar, Farmgate, Dhaka 1215</item>
+    </string-array>
+
+    <string-array name="hospital_54">
+        <item>Telephone: +8802-9336421</item>
+        <item>Address: 24/B, Outer Circular Rd, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_55">
+        <item>Telephone: +8802-9355801</item>
+        <item>Address: 30 Anjuman-e-Mofidul Islam Road, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_56">
+        <item>Mobile: +8801992-346631</item>
+        <item>Address: Plot No 31, Main Road 3, Near Purobi Bus Stop Begum Rokeya sarani, Block B, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_57">
+        <item>Telephone: +8802-9672277</item>
+        <item>Address: 55 Satmasjid Road, Jigatola Bustand, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_58">
+        <item>Mobile: +8801777-753464</item>
+        <item>Address: Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_59">
+        <item>Mobile: +8801730-324402</item>
+        <item>Address: Keraniganj</item>
+    </string-array>
+
+    <string-array name="hospital_60">
+        <item>Telephone: +8802-9024074</item>
+        <item>Address: Plot No. 5/2, Road No.-l, Section-2, Mirpur, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_61">
+        <item>Mobile: +8801952-989866</item>
+        <item>Address: Mirpur -12, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_62">
+        <item>Mobile: +8801769-010200</item>
+        <item>Address: New Airport Road, Kurmitola, Dhaka Cantonment, Dhaka 1206</item>
+    </string-array>
+
+    <string-array name="hospital_63">
+        <item>Telephone: +8802-9676356</item>
+        <item>Address: House- 06, Road-04, Dhanmondi, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_64">
+        <item>Mobile: +8801713-333337</item>
+        <item>Address: House- 01 , 03, Road-04, Dhanmondi, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_65">
+        <item>Mobile: +8801766-663455</item>
+        <item>Address: kalabagan, Bus stand, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_66">
+        <item>Telephone: +8802-9142636</item>
+        <item>Address: Lions Tower, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_67">
+        <item>Telephone: +8802-8057776</item>
+        <item>Address: Sector – 14, Mirpur, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_68">
+        <item>Mobile: +8801616-169848</item>
+        <item>Address: House- 12/B-68, Road- 4, Block- B, Section- 12, Pallabi, Mirpur, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_69">
+        <item>Telephone: +8802-9112076</item>
+        <item>Address: 13 Mirpur Rd, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_70">
+        <item>Telephone: +8802-8918345</item>
+        <item>Mobile: +8801732-071985</item>
+        <item>Address: House #21, Road #2, Nikunja #2</item>
+    </string-array>
+
+    <string-array name="hospital_71">
+        <item>Telephone: +8802-8913939</item>
+        <item>Address: Plot No 4 Road-8/9, Sector-1, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_72">
+        <item>Mobile: +8801718-237035</item>
+        <item>Address: 46, Shahid Taj Uddin Ahmed Sarani, Near Tangail Bus Stand, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="hospital_73">
+        <item>Telephone: +8802-8878080</item>
+        <item>Address: 117 Love Road, Dhaka 1208</item>
+    </string-array>
+
+    <string-array name="hospital_74">
+        <item>Telephone: +8802-9131901</item>
+        <item>Address: 89/1, Pantha Path, Dhanmondi, Dhaka 1215</item>
+    </string-array>
+
+    <string-array name="hospital_75">
+        <item>Telephone: +8802-9124046</item>
+        <item>Address: 4/9, Block F, Zakir Hossain Road, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_76">
+        <item>Mobile: +8801761-076667</item>
+        <item>Address: house No 20-21, Block Dha, pallabi, Mirpur 12, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_77">
+        <item>Telephone: +8802-9131958</item>
+        <item>Address: 150, Monipuripara Farmgate, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_78">
+        <item>Telephone: +8802-48318135</item>
+        <item>Address: 54, Siddeshwari Road, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_79">
+        <item>Telephone: +8802-7544717</item>
+        <item>Address: Tejgaon Circle, Kamlapur Rd, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_80">
+        <item>Telephone: +8802-9130152</item>
+        <item>Address: Rd No. 9A, Dhaka 1209</item>
+    </string-array>
+
+    <string-array name="hospital_81">
+        <item>Telephone: +8802-9122560</item>
+        <item>Address: Sher-e-Bangla Nagar, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_82">
+        <item>Telephone: +8802-9118171</item>
+        <item>Address: Mirpur Rd, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_83">
+        <item>Telephone: +8802-9137305</item>
+        <item>Address: Sher-E-Bangla Nagar, Agargoan, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_84">
+        <item>Telephone: +8802-8878155</item>
+        <item>Address: Tejgaon Health complex, Love Road, Begunbari, Tejgaon, C/A, Dhaka 1208</item>
+    </string-array>
+
+    <string-array name="hospital_85">
+        <item>Telephone: +8802-8811910</item>
+        <item>Address: Mohakhali, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="hospital_86">
+        <item>Telephone: +8802-8061314</item>
+        <item>Address: Plot-7/2, Section-2, Mirpur, Dhaka-1216</item>
+    </string-array>
+
+    <string-array name="hospital_87">
+        <item>Telephone: +8802-9134022</item>
+        <item>Address: Sher-E-Bangla Nagar Dhaka-1207</item>
+    </string-array>
+
+    <string-array name="hospital_88">
+        <item>Telephone: +8802-8114846</item>
+        <item>Address: 3/1, Lake Circus, Kalabagan,Dhaka-1205</item>
+    </string-array>
+
+    <string-array name="hospital_89">
+        <item>Telephone: +8802-8118138</item>
+        <item>Mobile: +8801914-331934</item>
+        <item>Address: 2/8A, road -3, Block-A, Lalmatia Mirpur Road, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_90">
+        <item>Telephone: +8802-9005490</item>
+        <item>Mobile: +8801799-499712</item>
+        <item>Address: Edgha Mohdhan Zoo Road, Mirpur -1, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_91">
+        <item>Mobile: +8801783-614515</item>
+        <item>Address: Mirpur Rd, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_92">
+        <item>Telephone: +8802-9661528</item>
+        <item>Address: House No. 290, Sonargaon Road, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_93">
+        <item>Telephone: +8802-9020174</item>
+        <item>Address: Avenue 5, HOUSE # 67 Road # 6, Block C, Dhaka 1216</item>
+    </string-array>
+
+    <string-array name="hospital_94">
+        <item>Telephone: +8802-9111911</item>
+        <item>Address: 22/7 A S M NURUZZAMAN ROAD BABOR ROAD, BLOCK-B MOHAMMADPUR, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_95">
+        <item>Telephone: +8802-9662741</item>
+        <item>Address: HOUSE # 16, ROAD # 2, DHANMONDI, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_96">
+        <item>Telephone: +8802-9664930</item>
+        <item>Address: 4 Rd No 13/2, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_97">
+        <item>Mobile: +8801955-567000</item>
+        <item>Address: Sector 12, 35 Shah Makhdum Avenue, Uttara, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_98">
+        <item>Telephone: +8802-8317606</item>
+        <item>Address: 208-9, Mogbazar Plaza, Outer Circular Rd, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_99">
+        <item>Mobile: +8801711-560347</item>
+        <item>Address: 11 DIT Rd, Dhaka 1217</item>
+    </string-array>
+
+    <string-array name="hospital_100">
+        <item>Telephone: +8802-9130800</item>
+        <item>Address: Sher- E- Bangla Nagar, Dhaka 1207</item>
+    </string-array>
+
+    <string-array name="hospital_101">
+        <item>Telephone: +8802-9863387</item>
+        <item>Address: House No-12, Model Town, Rd No 113/A, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="hospital_102">
+        <item>Telephone: +8802-9339089</item>
+        <item>Address: 135, New Eskaton Road, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_103">
+        <item>Telephone: +8802-8144400</item>
+        <item>Address: 18/F, Bir Uttam, Qazi Nuruzzaman Sarak, West Panthapath, Dhaka 1205</item>
+    </string-array>
+
+    <string-array name="hospital_104">
+        <item>Telephone: +8802-9346265</item>
+        <item>Address: Opposite, Police line Gate No 2, 937 Outer Circular Rd, Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="hospital_105">
+        <item>Telephone: +8802-8836000</item>
+        <item>Address: Plot # 15 Road # 71, Gulshan, Dhaka 1212</item>
+    </string-array>
+
+    <string-array name="hospital_106">
+        <item>Mobile: +8801841-480000</item>
+        <item>Address: 74G, 75 Peacock Square Road, New Airport Road, Mohakhali, Dhaka 1215</item>
+    </string-array>
+
+    <string-array name="hospital_107">
+        <item>Telephone: +8802-8911551</item>
+        <item>Mobile: +8801711-182522</item>
+        <item>Address: House 01, Road 07 Jashim Uddin Over Bridge, Dhaka 1230</item>
+    </string-array>
+
+    <string-array name="hospital_108">
+        <item>Telephone: +8802-8113302</item>
+        <item>Address: House #27, Road #27 (Old), Dhanmondi</item>
+    </string-array>
+
+    <string-array name="hospital_109">
+        <item>Telephone: +8802-9115458</item>
+        <item>Address: House #48/6, Road #9/A Dhanmondi, Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_110">
+        <item>Telephone: +8802-9129354</item>
+        <item>Address: 6/7, Block- A Lalmatia Dhaka</item>
+    </string-array>
+
+    <string-array name="hospital_111">
+        <item>Telephone: +8802-8115951</item>
+        <item>Address: Monica Estate, (West side of Dhanmondi), Dhaka</item>
+    </string-array>
+
+
+
+
+
+
+
+    //Ambulance//
+
+
+    <string-array name="ambulance_0">
+        <item>Telephone: +88029362929</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_1">
+        <item>Telephone: +88029134171</item>
+        <item>Mobile: +8801720448666</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_2">
+        <item>Telephone: +88029127867</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_3">
+        <item>Telephone: +88028117576</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_4">
+        <item>Telephone: +88029336611</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_5">
+        <item>Telephone: +88029125420</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_6">
+        <item>Mobile: +8801714-090000</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_7">
+        <item>Telephone: +88029661551</item>
+        <item>Address: Kobi Nazrul Islam Road, Shahabag, Dhaka.</item>
+    </string-array>
+
+    <string-array name="ambulance_8">
+        <item>Telephone: +88028614001</item>
+        <item>Address: Kobi Nazrul Islam Road, Shahabag, Dhaka.</item>
+    </string-array>
+
+    <string-array name="ambulance_9">
+        <item>Telephone: +88029118202</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_10">
+        <item>Telephone: +88029871469</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_11">
+        <item>Telephone: +88029123073</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_12">
+        <item>Telephone: +88028626812</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_13">
+        <item>Telephone: +88028014476</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_14">
+        <item>Telephone: +88028116061</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_15">
+        <item>Telephone: +88029556666</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_16">
+        <item>Telephone: +88028612412</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_17">
+        <item>Telephone: +88029801874</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_18">
+        <item>Telephone: +88028311721</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_19">
+        <item>Telephone: +88028811751</item>
+        <item>Address: Mohakhali, Dhaka.</item>
+    </string-array>
+
+    <string-array name="ambulance_20">
+        <item>Telephone: +88028155550</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_21">
+        <item>Telephone: +88028113721</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_22">
+        <item>Telephone: +88028319802</item>
+        <item>Address: Dhaka.</item>
+    </string-array>
+
+    <string-array name="ambulance_23">
+        <item>Telephone: +88029122560</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_24">
+        <item>Telephone: +88029110663</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_25">
+        <item>Telephone: +88029330188</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_26">
+        <item>Telephone: +88027319002</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_27">
+        <item>Telephone: +88029130800</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_28">
+        <item>Telephone: +88029111758</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_29">
+        <item>Telephone: +88028616565</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_30">
+        <item>Telephone: +88028144466</item>
+        <item>Mobile: +8801713377773</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_31">
+        <item>Telephone: +88029112150</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_32">
+        <item>Telephone: +88029562267</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_33">
+        <item>Telephone: +88028836000</item>
+        <item>Mobile: +8801914001234</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_34">
+        <item>Mobile: +8801713330088</item>
+        <item>Address: Dhaka</item>
+    </string-array>
+
+    <string-array name="ambulance_35">
+        <item>Mobile: +8801713333337</item>
+        <item>Address: Banani - Baridhara - Uttara Rayer</item>
+    </string-array>
+
+    <string-array name="ambulance_36">
+        <item>Mobile: +8801713-025911</item>
+        <item>Address: Dhanmondi-Azimpur-Shahbagh</item>
+    </string-array>
+
+    <string-array name="ambulance_37">
+        <item>Mobile: +8801715-120228</item>
+        <item>Address: Bazaar- Lalmatia- Mohammadpur</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
+

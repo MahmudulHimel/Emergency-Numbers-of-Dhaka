@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/main_toolbar"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="-48dp"
+                android:text="Emergency Numbers of Dhaka"
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:weightSum="2"
+
+        >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:background="#CFD8DC"
+        android:weightSum="2"
+        android:layout_weight="1"
+        android:paddingTop="3dp"
+        android:paddingRight="3dp"
+        android:paddingLeft="3dp"
+
+        >
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="2dp"
+
+
+            >
+
+            <ImageView
+                android:id="@+id/police"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/police"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Police Station"
+                android:gravity="center"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="7dp"
+                />
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="2dp"
+
+
+            >
+
+            <ImageView
+                android:id="@+id/fire"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/fire"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fire Station"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:padding="7dp"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:background="#CFD8DC"
+        android:weightSum="2"
+        android:layout_weight="1"
+        android:paddingRight="3dp"
+        android:paddingLeft="3dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="2dp"
+
+            >
+
+            <ImageView
+                android:id="@+id/hospital"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/hospital"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nearest Hospital"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:padding="7dp"
+                />
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="2dp"
+
+            >
+
+            <ImageView
+                android:id="@+id/ambulance"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/ambulance"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ambulance Service"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:padding="7dp"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:background="#CFD8DC"
+        android:weightSum="2"
+
+        >
+
+        <Button
+            android:id="@+id/police_call"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Police Control Room"
+            android:textSize="13dp"
+            android:textColor="#ffffff"
+            android:background="#009688"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginRight="3dp"
+            />
+
+
+        <Button
+            android:id="@+id/fire_call"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Fire Control Room"
+            android:textSize="13dp"
+            android:textColor="#ffffff"
+            android:background="#009688"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="3dp"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

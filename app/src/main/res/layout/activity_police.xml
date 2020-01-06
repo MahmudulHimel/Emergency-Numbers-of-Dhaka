@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".PoliceActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/back"
+                android:backgroundTint="#FFFFFF"/>
+
+            <TextView
+                android:id="@+id/police_toolbar"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Police Station"
+                android:layout_marginLeft="-48dp"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="7dp">
+
+        <ListView
+            android:id="@+id/police_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:dividerHeight="5dp"
+            android:divider="@null">
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>
